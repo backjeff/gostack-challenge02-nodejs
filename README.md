@@ -2,7 +2,7 @@
 
 ## :rocket: About
 
-Node project that hadle repositories. It can create, list, update, delete
+Node project that handle repositories. It can create, list, update, delete
 the entries and also handle likes.
 
 Its based on a Rocketseat template: **[Access template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
